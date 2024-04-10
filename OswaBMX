@@ -1,0 +1,117 @@
+<!DOCTYPE>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>bicicletaBMX</title>
+    <style>
+        body {
+            font-family: Super Mario 256, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #6AD97E;
+        }
+        header {
+            background-color: #4E7A54;
+            color: withe;
+            padding: 7px;
+            text-align: center;
+        }
+        nav {
+            background-color: #3529c3;
+            padding: 20px;
+            text-align: center;
+        }
+        nav a {
+            color: white;
+            text-decoration: none;
+            padding: 20px 20px;
+        }
+        nav a:hover {
+            background-color: #333;
+        }
+        section {
+            padding: 20px;
+        }
+        footer {
+            background-color: #58B578;
+            color: black;
+            text-align: center;
+            padding: 20px;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Todo sobre la BMX</h1>
+</header>
+
+<section>
+    <h2>¿Qué es una bicicleta BMX?</h2>
+    <p>Las bicicletas de BMX son muy fáciles de reconocer gracias a sus gruesos neumáticos y su ancho manillar. Suelen ser más pequeñas en comparación con una bicicleta común o una mountain bike, con el fin de reducir el peso y maximizar los trucos y acrobacias que se pueden hacer. Diseñadas originalmente para las carreras off-road, las bicicletas BMX están construidas para ser resistentes y duraderas, por lo que pueden soportar una conducción agresiva.</p>
+
+<p><img src="images.jpg" width="200" height="250" /></p>
+
+ <h2>¿Cuales son las partes de una BMX?</h2>
+<p>
+-Puños   
+-Manubrio   
+-Espiga o potencia   
+-Tenedor  
+-Valvula de neumatico   
+-Manzana, buje o masa   
+-Eje de pedalier   
+-Biela   
+-Pedal   
+-Plato   
+-Cadena   
+-Piñon unico de rueda   
+-Ruedas o rin   
+-Llanta o cubierta    
+-Freno tradicional tipo V-BRAKE   
+-Tija, caña o poste   
+-Abrazadera   
+-Marco o cuadro    </p>
+
+
+
+
+
+<h2> ¿Cómo se origino el BMX? </h2>
+<p> Sus orígenes: el motocross. En 1969, el californiano Scott Breithaupt decidió emular a sus ídolos utilizando una bicicleta en una pista de motocross. Poco a poco se fueron incorporando trucos, perfeccionando las bicicletas para llevarlos a cabo con más seguridad y precisión, hasta llegar a lo que conocemos actualmente como ciclismo BMX. 
+En 1977 se funda la American Bicycle Association (ABA). Esta entidad fue clave en el desarrollo y crecimiento del ciclismo BMX como deporte, que ya en 1978 se empezó a practicar en Europa. </p>
+
+<p><img src="descarga (1).jpg" width="200" height="250" /></p>  Nacimiento: 14 de julio de 1957, Long Beach, California, Estados Unidos
+Fallecimiento: 2015, Indio, California, Estados Unidos
+Estatura: 1.75 m
+Peso: 70 kg
+Deporte: Ciclismo de competición
+
+
+<h2> Cómo practicar BMX </h2>
+<p> Si le preguntas a un apasionado de este deporte qué es el BMX, lo primero que te dirá es que el ciclismo BMX es un deporte libre, versátil y divertido. Aquí no hay límites. 
+Por lo pronto, puedes elegir entre dos modalidades diferentes: Race, que se ejecuta en pista y cuyo objetivo es completar el recorrido en el menor tiempo posible o Freestyle. La finalidad de esta modalidad es competir en dificultad, creatividad, altura haciendo acrobacias. 
+
+Además, dentro de la modalidad freestyle hay una enorme diversidad de modalidades, en función del tipo de piruetas que se realizan, los lugares donde se practican y los elementos que se utilizan para hacer los trucos.  </p>
+
+<h2> ¿Cual es la BMX mas cara? </h2>
+<p> We The People: Es considerada como una de las marcas de bicicletas BMX más caras teniendo precios de hasta US $1.000. </p>
+
+<p><img src="descarga.jpg" width="200" height="250" /></p>
+
+
+<a href="https://www.360bs.net/que-es-el-bmx-y-cual-es-su-origen/">Enlace a google</a>
+
+   
+</section>
+
+<footer>
+    <p>&copy; 2024 Oswa. Todos los derechos reservados.</p>
+</footer>
+
+</body>
+</html>
